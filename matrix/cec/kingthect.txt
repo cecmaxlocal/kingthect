@@ -1,0 +1,43 @@
+*Text Handling in FreeBASIC*
+FreeBASIC provides various capabilities for text handling, including string manipulation and input/output operations.
+
+*Key Aspects*
+- *String Type*: FreeBASIC uses `String` for text data.
+- *Functions*: Various built-in functions like `Len`, `Mid`, `Instr`, `UCase`, `LCase`.
+- *Input/Output*: `Print`, `Input`, `Line Input` for text I/O.
+
+*Examples*
+```
+freebasic
+Dim text As String = "Hello, FreeBASIC!"
+Print text
+
+Dim length As Integer = Len(text)
+Print "Length: "; length
+
+Print UCase(text)  ' HELLO, FREEBASIC!
+Print LCase(text)  ' hello, freebasic!
+```
+
+*Common String Functions*
+1. *Len*: Get string length.
+2. *Mid*: Extract substring.
+3. *Instr*: Find substring position.
+4. *Trim*: Remove leading/trailing spaces.
+
+*Text Input*
+```
+freebasic
+Dim inputText As String
+Input "Enter text: ", inputText
+Print "You entered: "; inputText
+```
+
+*Considerations*
+- *Encoding*: FreeBASIC's string handling is based on the platform's encoding.
+- *Unicode*: Support varies; consider needs for international text.
+
+*Questions*
+- Do you need help with specific text processing tasks in FreeBASIC?
+- Are you working with file I/O or user input for text?
+- Would you like examples of string manipulation or formatting?
