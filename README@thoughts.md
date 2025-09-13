@@ -1,5 +1,8 @@
 Starting a food business can be incredibly rewarding, but it's also a challenging industry. To give you the best advice, could you tell me a little more about what kind of food business you're interested in? For example:
 
+![IDEFood](./matrix/cec/images/thoughts.png)
+
+_____
 *   **What kind of food are you passionate about?** (e.g., baked goods, international cuisine, healthy meals, comfort food)
 *   **What's your target market?** (e.g., busy professionals, families, health-conscious individuals, event catering)
 *   **What's your initial budget like?** (This will heavily influence your options)
