@@ -71,7 +71,7 @@ Before you begin, ensure you have the following installed:
 
 ### Project Structure
 
-```
+
 .
 ├── src/                  # Source code for the application
 │   ├── desktop/          # Desktop application specific files
@@ -84,7 +84,7 @@ Before you begin, ensure you have the following installed:
 ├── README.md             # This file
 ├── package.json          # Node.js dependencies (or equivalent for other languages)
 └── [Other relevant files, e.g., .env, Dockerfile, etc.]
-```
+
 
 ### Contributing
 
